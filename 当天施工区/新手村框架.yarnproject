@@ -1,0 +1,24 @@
+{
+    "projectFileVersion": 4,
+    "sourceFiles": [
+        "开始.yarn",
+        "广场.yarn",
+        "规划组.yarn",
+        "工程组.yarn",
+        "医疗组.yarn",
+        "生产组.yarn",
+        "瘸子水吧.yarn",
+        "**/*.yarn",
+        "writings.yarn",
+        "开场对话.yarn"
+    ],
+    "excludeFiles": [
+        "**/*~/*",
+        "writings.yarn"
+    ],
+    "baseLanguage": "zh-CN",
+    "compilerOptions": {
+        "diagnosticsSeverity": {}
+    },
+    "startNode": "开始"
+}
