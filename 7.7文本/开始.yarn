@@ -1,0 +1,7 @@
+title:Start
+position: 1500,950
+---
+开始
+-> 广场
+    <<jump 广场>>
+===
