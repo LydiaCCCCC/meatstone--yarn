@@ -19,6 +19,5 @@
     "baseLanguage": "zh-CN",
     "compilerOptions": {
         "diagnosticsSeverity": {}
-    },
-    "startNode": "开始"
+    }
 }

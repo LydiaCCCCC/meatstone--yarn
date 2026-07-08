@@ -1,5 +1,5 @@
 title: Start
-position: 1500,950
+position: 1500,843
 ---
 -> 开场对话
     <<jump 开场对话>>
